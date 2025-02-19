@@ -10,29 +10,12 @@ With 9+ years of full-stack web development experience for global businesses, I 
 <h1 style="font-size:42px" align="center">Contact me</h1>
 <h4>
 <b>Gmail</b>: anthony.beckham.0326@gmail.com<br>
-<b>Skype</b>: live:.cid.76c63917cfe48010 -->
+<b>Skype</b>: live:.cid.76c63917cfe48010
 <img align="right" src="https://komarev.com/ghpvc/?username=webmaster1116"/>
   
 </h4>
 
 <br> 
-
-<div align="center">
-  <!-- <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/visits/webmaster1116/webmaster1116?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/years/webmaster1116?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/repos/webmaster1116?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/gists/webmaster1116?style=flat-square&color=black&logo=github">
-  </a>
-   -->
-   <img src="https://github-profile-trophy.vercel.app/?username=webmaster1116&theme=gruvbox&no-frame=true&margin-w=30&margin-h=20" />
-</div>
 
 
 
