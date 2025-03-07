@@ -5,8 +5,9 @@ With 9+ years of full-stack web development experience for global businesses, I 
 
 <h1 style="font-size:42px" align="center">Contact me</h1>
 <h4>
-<b>Gmail</b>: anthony.beckham.0326@gmail.com<br>
-<b>Skype</b>: live:.cid.76c63917cfe48010
+<b>Gmail</b>: willie.ellis.0179@gmail.com<br>
+<b>Discord</b>: azure_web0702<br>
+<b>Telegram</b>: @eros9572
  </h4>
 
 <br> 
