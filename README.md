@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">	Senior Cross platform Audio Driver and AI Full Stack Engineer </h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">	Senior AI Full Stack Engineer </h1>
 <p align="center"><img align="center" style="width:96%" src="https://raw.githubusercontent.com/webdev1109/webdev1109/main/visionnaire-linguagens-de-programacao_14045_img.jpg" style = "width: -webkit-fill-available;"/></p>
 </p>
 	With over 10 years of experience, I have consistently delivered industrial-grade web applications and virtual drivers across diverse industries, including MacOS Audio Driver, Virtual Driver, chatbots, image generators, audio generators, video generators, healthcare, social media platforms, and internet marketing. 
